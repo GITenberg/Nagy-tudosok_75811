@@ -1,0 +1,43 @@
+_repo: Nagy-tudosok_75811
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Cholnoky, Jenő
+    aliases:
+    - Cholnoky, Eugen
+    - Cholnoky, Eugene
+    - Cholnoky, Jeno
+    - Cholnoky, Jenő, Dr.
+    birthdate: 1870
+    deathdate: 1950
+    gutenberg_agent_id: '58157'
+    url: http://www.gutenberg.org/2009/agents/58157
+    wikipedia: https://hu.wikipedia.org/wiki/Cholnoky_Jen%C5%91
+description: ''
+gutenberg_issued: '2025-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75811'
+language: hu
+pgterms:marc905: 20250406021738cholnoky
+pgterms:marc906: '1912'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: '  $aBudapest :$bSinger és Wolfner, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Karriérek ; 8.
+subjects:
+- !lcsh 'Scientists'
+- !lcc 'Q'
+- GITenberg
+tableOfContents: Előszó / Cholnoky Jenő -- Aristoteles / Váró Ferenc -- Humboldt Sándor
+  / Cholnoky Jenő -- Honterus / Fink Ida -- Franklin Benjámin / Szilády Zoltán --
+  Cuvier / Szilády Zoltán -- Bolyai Farkas és Bolyai János életrajza -- Carolus Linnaeus
+  / Szabó Zoltán -- Jenner Edward / Csapodi István -- Pasteur Louis / Csapodi István
+  -- Mommsen Tivadar / Buday Árpád -- Darwin / Szilády Zoltán -- Galilei / Cholnoky
+  Jenő.
+title: Nagy tudósok
+url: http://www.gutenberg.org/ebooks/75811
