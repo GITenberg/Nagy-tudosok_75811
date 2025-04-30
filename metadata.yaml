@@ -1,5 +1,8 @@
 _repo: Nagy-tudosok_75811
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75811-h/images/cover.jpg
 creator:
   editor:
     agent_name: Cholnoky, Jenő
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58157
     wikipedia: https://hu.wikipedia.org/wiki/Cholnoky_Jen%C5%91
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75811#Nagy-tudosok
 gutenberg_issued: '2025-04-07'
 gutenberg_type: Text
 identifiers:
